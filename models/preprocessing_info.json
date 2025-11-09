@@ -1,0 +1,29 @@
+{
+  "city_mapping": {
+    "City_A": 0,
+    "City_B": 1,
+    "City_C": 2,
+    "City_D": 3
+  },
+  "numeric_cols": [
+    "PM2_5",
+    "PM10",
+    "NO2",
+    "SO2",
+    "CO",
+    "O3",
+    "Temperature",
+    "Humidity",
+    "Wind_Speed",
+    "Pressure",
+    "Month",
+    "Hour",
+    "Industrial_Area",
+    "Traffic_Density",
+    "AQI"
+  ],
+  "categorical_cols": [
+    "City"
+  ],
+  "processed_date": "2025-11-07 12:57:05"
+}

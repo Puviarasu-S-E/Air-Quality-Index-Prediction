@@ -1,0 +1,7 @@
+EDA INSIGHTS SUMMARY
+==================================================
+
+1. AQI Distribution: Skewness = 0.178, Kurtosis = -1.117
+2. Top 3 features correlated with AQI: CO (0.996), NO2 (0.996), PM2_5 (0.995)
+3. Missing values in processed data: 0
+4. Total features for modeling: 15
